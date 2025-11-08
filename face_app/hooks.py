@@ -7,6 +7,9 @@ app_description = "Face App"
 app_email = "info@momscode.in"
 app_license = "MIT"
 
+# Required apps
+required_apps = ["frappe/erpnext~=15.0"]
+
 # Includes in <head>
 # ------------------
 after_migrate = ["face_app.api.after_migrate.execute"]
