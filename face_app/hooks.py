@@ -8,7 +8,7 @@ app_email = "info@momscode.in"
 app_license = "MIT"
 
 # Required apps
-required_apps = ["frappe/erpnext~=15.0"]
+required_apps = ["erpnext"]
 
 # Includes in <head>
 # ------------------
