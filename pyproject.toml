@@ -19,8 +19,8 @@ dependencies = [
     "Pillow"
 ]
 
-[project.license]
-text = "MIT"
-
 [project.urls]
 Homepage = "https://github.com/chumam2050/face_app"
+
+[tool.bench.dev-dependencies]
+# Development dependencies
